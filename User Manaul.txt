@@ -1,0 +1,7 @@
+   User Manual
+
+1.First install java 1.8 version on your machine.
+2.Set the variables and paths respectively
+3.Install Ms Access 
+4.Run the database
+5.Run the system
